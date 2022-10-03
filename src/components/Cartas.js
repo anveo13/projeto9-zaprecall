@@ -1,24 +1,24 @@
 import Carta from "./Carta";
 const array=[
     {
-        pergunta: "O que é JSX?",
-        resposta: "Uma extensão de linguagem do JavaScript"
+        pergunta: "Quem é o maior campeão da copa do mundo?",
+        resposta: "Brasil, com 5 titulos."
     },
     {
-        pergunta: "O React é __",
-        resposta: "uma biblioteca JavaScript para construção de interfaces"
+        pergunta: " __ ficou conhecida como o terror dos goleiros em 2010",
+        resposta: "Jabulani"
     },
     {
-        pergunta: "Componentes devem iniciar com __",
-        resposta: "letra maiúscula"
+        pergunta: "__ é o jogador mais jovem a ganhar a copa do mundo",
+        resposta: "Pelé"
     },
     {
-        pergunta: "Podemos colocar __ dentro do JSX ",
-        resposta: "expressões"
+        pergunta: "Aonde foi disputada a primeira copa do mundo?",
+        resposta: "Uruguai"
     },
     {
-        pergunta: "O ReactDOM nos ajuda __ ",
-        resposta: "interagindo com a DOM para colocar componentes React na mesma"
+        pergunta: " Onde foi a primeira copa fora do eixo America-Europa?",
+        resposta: "Japão-Coreia, em 2002"
     }
 ]
 export default function Cartas(props) {
